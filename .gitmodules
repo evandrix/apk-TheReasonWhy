@@ -1,5 +1,5 @@
-[submodule "docs/pdfminer"]
-	path = docs/pdfminer
+[submodule "docs/py-pdfminer"]
+	path = docs/py-pdfminer
 	url = https://github.com/euske/pdfminer
 [submodule "docs/py-docx"]
 	path = docs/py-docx
